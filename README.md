@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Fernando Patiño 
+- 👀 I’m interested in Programing Apps and Some Old Style Gamming ...
+- 🌱 I’m currently reading Jurassic Park ...
+- 📫 How to reach me ...
+
+<!---
+FdoPat92/FdoPat92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
